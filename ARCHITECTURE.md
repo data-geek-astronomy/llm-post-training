@@ -414,4 +414,4 @@ Track eval metrics over time to detect degradation.
 
 ---
 
-**Questions about architecture?** Open an issue or email rahulreddy12365@gmail.com
+**Questions about architecture?** Open an issue or email aravind.kumar.nalukurthi@gmail.com

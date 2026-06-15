@@ -313,6 +313,8 @@ If you need help with GitHub setup, see:
 - GitHub CLI: https://cli.github.com
 - Awesome GitHub: https://github.com/awesome-selfhosted/awesome-selfhosted
 
+Or email: aravind.kumar.nalukurthi@gmail.com
+
 ---
 
 **Ready to launch!** 🚀

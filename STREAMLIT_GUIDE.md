@@ -419,7 +419,7 @@ streamlit run streamlit_app.py
 ## 📞 Support
 
 Need help?
-- **Email**: rahulreddy12365@gmail.com
+- **Email**: aravind.kumar.nalukurthi@gmail.com
 - **GitHub**: https://github.com/yourusername/llm-post-training
 - **Discord**: [Link to community server]
 

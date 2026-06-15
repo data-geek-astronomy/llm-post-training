@@ -400,7 +400,7 @@ Ideas to extend:
 - [User Guide](STREAMLIT_GUIDE.md) - How to use the app
 - [Deployment Guide](STREAMLIT_DEPLOYMENT.md) - How to deploy
 - [GitHub Issues](https://github.com/yourusername/llm-post-training/issues)
-- Email: rahulreddy12365@gmail.com
+- Email: aravind.kumar.nalukurthi@gmail.com
 
 ## 📄 License
 

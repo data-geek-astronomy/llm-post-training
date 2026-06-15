@@ -257,7 +257,7 @@ And consider citing the papers:
 
 ## Support
 
-**Questions?** Open an issue or email rahulreddy12365@gmail.com
+**Questions?** Open an issue or email aravind.kumar.nalukurthi@gmail.com
 
 **Found a bug?** Submit a bug report with reproduction steps.
 

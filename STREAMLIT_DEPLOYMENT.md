@@ -383,4 +383,4 @@ services:
 
 ---
 
-Need help? Email rahulreddy12365@gmail.com or open a GitHub issue.
+Need help? Email aravind.kumar.nalukurthi@gmail.com or open a GitHub issue.

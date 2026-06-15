@@ -138,4 +138,4 @@ See README.md for detailed architecture, methodology, and references.
 
 ---
 
-Questions? Open an issue or email rahulreddy12365@gmail.com
+Questions? Open an issue or email aravind.kumar.nalukurthi@gmail.com
